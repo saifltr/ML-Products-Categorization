@@ -32,7 +32,7 @@ This Python script performs various tasks related to data preprocessing, machine
 - A machine learning model is built using Logistic Regression to categorize products into different categories based solely on their titles.
 - The model predicts the category of a product based on its title using TF-IDF Vectorizer for feature extraction and Logistic Regression for classification.
 
-<h4>Dependencies</h4>
+<h2>Dependencies</h2>
 <p>pandas: For data manipulation and analysis.</p>
 <p>BeautifulSoup (bs4): For parsing HTML data.</p>
 <p>scikit-learn: For model training</p>
