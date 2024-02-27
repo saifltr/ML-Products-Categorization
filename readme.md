@@ -4,3 +4,5 @@ This project aims to collect product data from various CSV files, perform data c
 <h2>Dependencies</h2>
 <p>pandas: For data manipulation and analysis.</p>
 <p>BeautifulSoup (bs4): For parsing HTML data.</p>
+<p>scikit-learn: For model training</p>
+<p>nltk: For natural language processing</p>
