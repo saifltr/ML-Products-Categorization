@@ -9,7 +9,7 @@ This Python script performs various tasks related to data preprocessing, machine
 
 This Python script performs various tasks related to data preprocessing, machine learning model building, and evaluation on a dataset of product descriptions from multiple ecommerce websites.
 
-## Model Building and different approaches
+## Model Building and different approaches for training the ML models
 
 ### 1. Data Loading and Filtering
 - The script loads the dataset from a CSV file named "cleaned_products.csv".
